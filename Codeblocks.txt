@@ -1,0 +1,2 @@
+select then press : ctrl + shift + c to comment 
+select then press : ctrl + shift + x to comment out
